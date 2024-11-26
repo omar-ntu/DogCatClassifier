@@ -8,3 +8,5 @@ This was a project done for one of my university modules, "Artificial Intelligen
 `3_AIDM_Final` is almost a copy of the cleaned version, just that the code is tweaked a little to meet some of the assignment's requirements.
 
 `AIDM_CIFAR10` contains code to build a similar classifier with almost the same architecture to classify images from the CIFAR-10 dataset.
+
+p.s. you'll notice some text in the markdown cells in the notebooks `2_AIDM_Cleaned` and `3_AIDM_Final`. These are texts that I wrote to brief my projectmates on what was going on.
